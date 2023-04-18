@@ -1,2 +1,2 @@
-Projet : Réaliser une étude de santé publique avec Python
-Réalisez une étude de santé publique avec R ou Python Réalisez une étude de santé publique avec R ou Python
+## Réaliser une étude de santé publique avec R Python
+Prendre en main le langage Python pour analyser les données de la FAO sur la faim dans le monde.
