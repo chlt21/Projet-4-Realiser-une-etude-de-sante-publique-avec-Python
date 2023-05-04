@@ -1,6 +1,7 @@
 # Réalisation d'une étude de santé publique avec Python
 
 Objectif : Prendre en main le langage Python pour analyser les données de la FAO sur la faim dans le monde.
+
 #### Compétences cibles
   - Créer un environnement de développement
   - Manipuler des DataFrames
