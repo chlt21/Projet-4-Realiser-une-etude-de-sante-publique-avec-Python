@@ -24,4 +24,4 @@ Objectif : Prendre en main le langage Python pour analyser les données de la FA
 
 3.2 - Utilisation du manioc aux égards de la proportion de personnes en sous-nutrition 
 ## Etape 4 - Questions de Mélanie
-4.1 - Liste des pays pour lesquels la proportion de personnes sous-alimenatées est la plus forte en 2017, ceux qui ont bénéficié d'aide depuis 2013, ceux ayant le moins de disponibilité alimentaire par habitant et ceux ayant le moins de disponibilité intérieur
+4.1 - Liste des pays pour lesquels la proportion de personnes sous-alimentées est la plus forte en 2017, ceux qui ont bénéficié d'aide depuis 2013, ceux ayant le moins de disponibilité alimentaire par habitant et ceux ayant le moins de disponibilité intérieur
